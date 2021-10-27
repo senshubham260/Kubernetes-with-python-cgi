@@ -9,7 +9,7 @@ print()
 
 print('''<style>
 pre{
-    color: black;
+    color: red;
     font-weight: bold;
     font-size: 25px;
     
